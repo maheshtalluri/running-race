@@ -1,0 +1,7 @@
+.participants-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #c0ccc3;
+    padding: 8px;
+    margin-top: 10px;
+}

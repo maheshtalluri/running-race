@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.partipation-bg {
+    background-color: #d4c69f;
+    height: 100vh;
+    padding: 20px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.runner-details-card {
+    background-color: #e6cf91;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+.runner-head {
+    font-size: 30px;
+}
+
+.note {
+    font-size: 12px;
+}
+
+.runner-title {
+    margin-bottom: 20px;
+}
+
+.input-name {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.input-value {
+    border: none;
+    padding: 10px;
+    width: 230px;
+    border-radius: 5px;
+}
+
+.input-name-container {
+    margin-bottom: 15px;
+}
+
+.addBtn {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.span-ele {
+    margin-right: 10px;
+}
+
+.list-details-card {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 20px;
+}
+
+.player-table {
+    display: flex;
+    justify-content: space-between;
+    width: 1100px;
+}
+
+.list-of-participants-heading {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.hr-line {
+    margin-top: 20px;
+}
+
+.startBtn {
+    background-color: #f72d41;
+    padding: 10px;
+    border: none;
+    margin-top: 20px;
+    display: flex;
+    align-self: self-end;
+    cursor: pointer;
+}
